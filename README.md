@@ -28,3 +28,7 @@ clone the project, and you can write nodejs right away. support typescript.
 ## TODO
 
 -   [ ] 支持 pm2 部署
+
+# License
+
+node-template is available under the [MIT license](https://opensource.org/licenses/MIT).
